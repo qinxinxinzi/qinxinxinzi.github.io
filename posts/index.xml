@@ -6,10 +6,19 @@
     <description>Recent content in Posts on 十年之约</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 20 Jun 2020 15:01:47 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2020 16:20:52 -0700</lastBuildDate>
     
 	<atom:link href="https://qinxinxinzi.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hugo博客使用方法</title>
+      <link>https://qinxinxinzi.github.io/posts/hugo%E5%8D%9A%E5%AE%A2%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/</link>
+      <pubDate>Wed, 24 Jun 2020 16:20:52 -0700</pubDate>
+      
+      <guid>https://qinxinxinzi.github.io/posts/hugo%E5%8D%9A%E5%AE%A2%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/</guid>
+      <description>hugo --theme=zozo --baseUrl=&amp;#34;https://qinxinxinzi.github.io/&amp;#34; --buildDrafts cd public git init git add . git commit -m &amp;#34;yyyy/mm/dd-hh:mm&amp;#34; git remote add origin https://github.com/qinxinxinzi/qinxinxinzi.github.io.git git push -u origin master 如果前一个指令不成功： git push -f origin master</description>
+    </item>
     
     <item>
       <title>第二章 原来再见到你是这种感觉</title>

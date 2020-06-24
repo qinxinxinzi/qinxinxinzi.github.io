@@ -6,10 +6,28 @@
     <description>Recent content on 十年之约</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 20 Jun 2020 15:01:47 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2020 16:20:52 -0700</lastBuildDate>
     
 	<atom:link href="https://qinxinxinzi.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hugo博客使用方法</title>
+      <link>https://qinxinxinzi.github.io/posts/hugo%E5%8D%9A%E5%AE%A2%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/</link>
+      <pubDate>Wed, 24 Jun 2020 16:20:52 -0700</pubDate>
+      
+      <guid>https://qinxinxinzi.github.io/posts/hugo%E5%8D%9A%E5%AE%A2%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/</guid>
+      <description>hugo --theme=zozo --baseUrl=&amp;#34;https://qinxinxinzi.github.io/&amp;#34; --buildDrafts cd public git init git add . git commit -m &amp;#34;yyyy/mm/dd-hh:mm&amp;#34; git remote add origin https://github.com/qinxinxinzi/qinxinxinzi.github.io.git git push -u origin master 如果前一个指令不成功： git push -f origin master</description>
+    </item>
+    
+    <item>
+      <title>关于</title>
+      <link>https://qinxinxinzi.github.io/about/</link>
+      <pubDate>Wed, 24 Jun 2020 20:24:28 +0800</pubDate>
+      
+      <guid>https://qinxinxinzi.github.io/about/</guid>
+      <description>关于沁馨本人 无话可说</description>
+    </item>
     
     <item>
       <title>第二章 原来再见到你是这种感觉</title>
@@ -27,15 +45,6 @@
       
       <guid>https://qinxinxinzi.github.io/posts/chapter1/</guid>
       <description>苏梓欣一直渴望当自己的眼里有星辰，身边的那个男孩眼里有自己。爱是美好的，是苦涩的，是永不放弃，也是不敢忘记。只有当她真正经历过才知道爱是多么撕心裂肺。分开十年，这段爱是否还能继续？ 每个女孩都有一个爱情</description>
-    </item>
-    
-    <item>
-      <title>关于</title>
-      <link>https://qinxinxinzi.github.io/about/</link>
-      <pubDate>Sat, 29 Dec 2018 20:24:28 +0800</pubDate>
-      
-      <guid>https://qinxinxinzi.github.io/about/</guid>
-      <description>关于沁馨本人</description>
     </item>
     
   </channel>
